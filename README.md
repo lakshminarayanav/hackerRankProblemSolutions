@@ -26,7 +26,4 @@ problem #3 - Print maximum of minimum value in sub sets of size x in given set o
   let's say space = 1 for same input set, then output will be 5
   let's say space = 3 for same input set, then output will be (1,2,3) (2,3,4) (3,4,5) => 3
 
-
-
-
   
